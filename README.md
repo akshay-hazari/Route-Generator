@@ -1,3 +1,5 @@
+This was a part of a student program by Amazon . Please bear with the code - this is kind of a first year project.
+
 Python Installation  on Windows:
 
 Download and run : https://www.python.org/ftp/python/2.7.6/python-2.7.6.msi
